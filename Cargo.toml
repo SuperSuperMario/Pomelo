@@ -1,0 +1,10 @@
+[package]
+name = "pomelo"
+version = "0.1.0"
+authors = ["0xe8b5b5 <0xe8b5b5@github.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "2.0"
+actix-rt = "1.0"
+
